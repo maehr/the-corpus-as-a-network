@@ -4,6 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/maehr/the-corpus-as-a-network.svg)](https://github.com/maehr/the-corpus-as-a-network/network)
 [![GitHub stars](https://img.shields.io/github/stars/maehr/the-corpus-as-a-network.svg)](https://github.com/maehr/the-corpus-as-a-network/stargazers)
 [![GitHub license](https://img.shields.io/github/license/maehr/the-corpus-as-a-network.svg)](https://github.com/maehr/the-corpus-as-a-network/blob/main/LICENSE)
+[![DOI](https://zenodo.org/badge/577453842.svg)](https://zenodo.org/badge/latestdoi/577453842)
 
 *Turning source documents into a graph with NLP*
 

@@ -12,7 +12,7 @@
     "description": "For the research project \"The Evolution of Internet Governance\" at the University of Bern, a corpus was compiled. The born digital sources date from the years between 1969 and 1999 and are relatively homogeneous. This allowed to build different network representations (graphs) of the indicated human and non-human actors, locations and events from the corpus using NLP (rule-based annotations as well as automated Named Entity Recognition). The process of annotating the corpus and constructing bipartite graphs is the subject of this lecture.",
     "applicationCategory": "Digital Humanities",
     "developmentStatus": "wip",
-    "referencePublication": "https://zenodo.org/10.5281/zenodo.1234",
+    "referencePublication": "https://zenodo.org/10.5281/zenodo.7430555",
     "programmingLanguage": [
         "Python3"
     ],
