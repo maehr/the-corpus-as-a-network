@@ -31,7 +31,7 @@ poetry run jupyter notebook notebooks/the-corpus-as-a-network.ipynb
 
 | Nbviewer | Jupyter Notebook | Jupyter Lab | HTML |
 | ---      | --               | ---         | ---  |
-| [the-corpus-as-a-network.ipynb](https://nbviewer.jupyter.org/github/maehr/the-corpus-as-a-network/blob/main/notebooks/the-corpus-as-a-network.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maehr/the-corpus-as-a-network/main?filepath=notebooks%2Fthe-corpus-as-a-network.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maehr/the-corpus-as-a-network/main?labpath=notebooks%2Fthe-corpus-as-a-network.ipynb) | [HTML](https://rawgit.com/maehr/the-corpus-as-a-network/main/reports/the-corpus-as-a-network.slides.html) |
+| [the-corpus-as-a-network.ipynb](https://nbviewer.jupyter.org/github/maehr/the-corpus-as-a-network/blob/main/notebooks/the-corpus-as-a-network.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maehr/the-corpus-as-a-network/main?filepath=notebooks%2Fthe-corpus-as-a-network.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maehr/the-corpus-as-a-network/main?labpath=notebooks%2Fthe-corpus-as-a-network.ipynb) | [HTML](https://maehr.github.io/the-corpus-as-a-network/) |
 
 ## Contributing
 
