@@ -1,0 +1,32 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/BSD-3-Clause",
+    "codeRepository": "https://github.com/maehr/the-corpus-as-a-network",
+    "dateCreated": "2022-12-12",
+    "datePublished": "2022-12-12",
+    "dateModified": "2022-12-12",
+    "issueTracker": "https://github.com/maehr/the-corpus-as-a-network/issues",
+    "name": "The corpus as a network",
+    "version": "0.1.0",
+    "description": "For the research project \"The Evolution of Internet Governance\" at the University of Bern, a corpus was compiled. The born digital sources date from the years between 1969 and 1999 and are relatively homogeneous. This allowed to build different network representations (graphs) of the indicated human and non-human actors, locations and events from the corpus using NLP (rule-based annotations as well as automated Named Entity Recognition). The process of annotating the corpus and constructing bipartite graphs is the subject of this lecture.",
+    "applicationCategory": "Digital Humanities",
+    "developmentStatus": "wip",
+    "referencePublication": "https://zenodo.org/10.5281/zenodo.1234",
+    "programmingLanguage": [
+        "Python3"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0002-1367-1618",
+            "givenName": "Moritz",
+            "familyName": "Mähr",
+            "email": "moritz.maehr@unibe.ch",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Digital Humanities, University of Bern"
+            }
+        }
+    ]
+}

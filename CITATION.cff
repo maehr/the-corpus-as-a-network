@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: The corpus as a network
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Moritz
+    family-names: Mähr
+    email: moritz.maehr@unibe.ch
+    affiliation: University of Bern
+    orcid: 'https://orcid.org/0000-0002-1367-1618'
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-12-12
